@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1589305003 source:c:\users\lenovo\documents\programacion\practicandoestruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"utn.h"
+	"empleados.h"
+	"sectores.h"
+
+1589284612 c:\users\lenovo\documents\programacion\practicandoestruct\datawarehouse.h
+
+1589280669 source:c:\users\lenovo\documents\programacion\practicandoestruct\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589163366 c:\users\lenovo\documents\programacion\practicandoestruct\utn.h
+
+1589283657 c:\users\lenovo\documents\programacion\practicandoestruct\empleados.h
+
+1589283447 source:c:\users\lenovo\documents\programacion\practicandoestruct\sectores.c
+
+1589283657 source:c:\users\lenovo\documents\programacion\practicandoestruct\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"sectores.h"
+
+1589283463 c:\users\lenovo\documents\programacion\practicandoestruct\sectores.h
+

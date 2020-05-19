@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1589742921 source:c:\users\lenovo\documents\programacion\parcialsabado\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"utn.h"
+	"tipo.h"
+	"color.h"
+	"datawarehouse.h"
+
+1589742971 source:c:\users\lenovo\documents\programacion\parcialsabado\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589742971 source:c:\users\lenovo\documents\programacion\parcialsabado\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589722149 source:c:\users\lenovo\documents\programacion\parcialsabado\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1589722149 c:\users\lenovo\documents\programacion\parcialsabado\utn.h
+
+1589741030 c:\users\lenovo\documents\programacion\parcialsabado\datawarehouse.h
+
+1589730501 c:\users\lenovo\documents\programacion\parcialsabado\tipo.h
+
+1589733325 c:\users\lenovo\documents\programacion\parcialsabado\color.h
+
+1589742683 c:\users\lenovo\documents\programacion\parcialsabado\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1589742971 source:c:\users\lenovo\documents\programacion\parcialsabado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"tipo.h"
+	"color.h"
+	"bicicleta.h"
+

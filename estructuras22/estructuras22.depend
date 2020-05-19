@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1589579746 source:c:\users\lenovo\documents\programacion\estructuras22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+
+1589110836 c:\users\lenovo\documents\programacion\estructuras22\datawarehouse.h
+
+1589578817 source:c:\users\lenovo\documents\programacion\estructuras22\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"datawarehouse.h"
+
+1589577488 c:\users\lenovo\documents\programacion\estructuras22\empleado.h
+	"sector.h"
+
+1589185096 c:\users\lenovo\documents\programacion\estructuras22\sector.h
+
+1589184681 source:c:\users\lenovo\documents\programacion\estructuras22\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1589352776 c:\users\lenovo\documents\programacion\estructuras22\informes.h
+
+1589353229 source:c:\users\lenovo\documents\programacion\estructuras22\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1589577488 source:c:\users\lenovo\documents\programacion\estructuras22\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comida.h"
+
+1589577488 c:\users\lenovo\documents\programacion\estructuras22\comida.h
+
+1589578817 c:\users\lenovo\documents\programacion\estructuras22\almuerzo.h
+	"empleado.h"
+	"comida.h"
+	"empleado.h"
+
+1589579753 source:c:\users\lenovo\documents\programacion\estructuras22\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"comida.h"
+	"empleado.h"
+

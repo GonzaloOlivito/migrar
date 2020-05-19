@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589583045 source:c:\users\lenovo\documents\programacion\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
